@@ -1,3 +1,27 @@
+# Instructions to get this to run on collab
+
+## Creating folders
+
+Make sure to create climax_data
+
+Inside climax_data create train_val and test add the right data respectfully 
+
+## Requirements 
+
+run pip install -r requirements.txt in the root of the folder 
+
+then run pip install -e . 
+
+## Training 
+
+python src/climax/climate_projection/train.py --config=configs/climate_projection_simple.yaml
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1785175/215624212-fc92ccb1-f14c-4cb6-982f-61f50b9f3c21.png" width="320px">
 </p>
