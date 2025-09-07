@@ -1,0 +1,5 @@
+# NetCDF files
+*.nc
+
+# Climate environment folder
+climate_env/
