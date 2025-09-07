@@ -1,0 +1,46 @@
+# Core ML packages - Updated versions
+torch>=2.0.0
+torchvision
+torchaudio
+pytorch-lightning
+lightning
+torchmetrics
+timm
+
+# Data processing
+numpy
+pandas
+scipy
+xarray
+netcdf4
+zarr
+
+# Scientific computing
+einops
+numba
+dask
+
+# Climate/geo-specific packages
+cf_xarray
+xesmf
+
+# Configuration and utilities
+omegaconf
+jsonargparse
+pyyaml
+tqdm
+fire
+
+# ML experiment tracking
+tensorboard
+
+# HTTP and auth
+aiohttp
+requests
+google-auth
+google-auth-oauthlib
+
+# Utilities
+huggingface-hub
+filelock
+packaging
