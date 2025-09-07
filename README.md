@@ -4,7 +4,7 @@
 
 Make sure to create climax_data
 
-Inside climax_data create train_val and test add the right data respectfully 
+Inside climax_data create train_val and test add the right data respectfully. 
 
 ## Requirements 
 
