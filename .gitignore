@@ -1,5 +1,15 @@
 # NetCDF files
 *.nc
 
-# Climate environment folder
+# Climate environment folders
 climate_env/
+climax_env/
+
+# Climate data folders
+climax_data/
+
+# Large tar.gz files
+*.tar.gz
+
+# Specific large files that exceeded GitHub limits
+cru-ts40_ar5_rcp85_mri-cgcm3_all_four_basins_150x277/
