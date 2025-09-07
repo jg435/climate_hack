@@ -1,5 +1,11 @@
 # Instructions to get this to run on collab
 
+Make sure to use v5e1 (google tpu) as this requires around 20gb of ram. 
+
+Also if you clone the repo into google colab make sure to change the root folder name from climate_hack to climax. 
+
+The training and test data will be emailed / airdropped
+
 ## Creating folders
 
 Make sure to create climax_data
